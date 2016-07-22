@@ -1,6 +1,6 @@
 # WhatToCode
 
-## WhatToCode is ment to be a small website where you get a random full project with little tasks to complete.
+## WhatToCode is meant to be a small website where you get a random project with little tasks to complete.
 
 ### I will need your feedback to decide if this is worth the effort of not.
 
